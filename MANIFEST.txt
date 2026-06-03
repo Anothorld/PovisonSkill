@@ -1,0 +1,6 @@
+# PovisonSkill Manifest
+# 只有列在此文件中的技能才会被同步到 repo
+# 格式：skill-name | category | 描述
+
+feishu-doc-writer | productivity | 飞书云文档创建/追加/权限设置
+povison-skill-sync | devops | PovisonSkill Git 仓库技能同步（上传/下载）
