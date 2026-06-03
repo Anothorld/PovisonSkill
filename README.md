@@ -41,3 +41,4 @@ PovisonSkill/
 | 技能 | 分类 | 说明 |
 |------|------|------|
 | feishu-doc-writer | productivity | 飞书云文档创建/追加/权限设置 |
+| povison-skill-sync | devops | PovisonSkill Git 仓库技能同步（上传/下载/全量同步） |
